@@ -1,8 +1,8 @@
 ### Hello, I'm Jon Webb 👋
 
 - 🔭 I’m currently working as a **full-stack dev** in **Atlanta, GA**
-- ⚙️ I work with: React.js, Typescript, Node.js
-- 🌱 I’m currently learning: Java, Ruby, PostgreSQL
+- ⚙️ I work with: `React.js`, `Typescript`, `Node.js`
+- 🌱 I’m currently learning: `Java`, `Ruby`, `PostgreSQL`
 
 ### 📫 Get in touch
 
