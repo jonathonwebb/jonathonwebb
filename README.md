@@ -3,8 +3,8 @@
 I'm a Javascript developer with industry experience building modern web applications, currently working within the React & Node ecosystem.
 
 - 🔭 I’m currently working as a **full-stack dev** in **Atlanta, GA**
-- ⚙️ I work with: `React.js`, `Typescript`, `Node.js`
-- 🌱 I’m currently learning: `Java`, `PostgreSQL`
+- ⚙️ I work with: `Typescript`, `Node.js`, `React.js`, `PostgreSQL`
+- 🌱 I’m currently learning: `Java`
 
 ### 📫 Get in touch
 
