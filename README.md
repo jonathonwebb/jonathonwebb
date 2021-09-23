@@ -1,9 +1,9 @@
 ### Hello, I'm Jon Webb 👋
 
-I'm a Javascript developer with industry experience building modern web applications, currently working within the React & Node ecosystem.
+I'm a software engineer specializing in modern web applications, with industry experience in the Node.js, Ruby/Rails, and React.js ecosystems.
 
 - 🔭 I’m currently working as a **full-stack dev** in **Atlanta, GA**
-- ⚙️ I work with: `Typescript`, `Node.js`, `React.js`, `PostgreSQL`
+- ⚙️ I'm currently enjoying working with: `Ruby`, `Rails`, `Javascript/Typescript`, `Node.js`, `React.js`, `PostgreSQL`
 - 🌱 I’m currently learning: `Java`
 
 ### 📫 Get in touch
