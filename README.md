@@ -9,5 +9,5 @@ I'm a software engineer specializing in modern web applications, with industry e
 
 - Github: [jon-codes](https://github.com/jon-codes)
 - LinkedIn: [jonathon-webb](https://www.linkedin.com/in/jonathon-webb/)
-- Twitter: [\_jon_codes\_](https://twitter.com/_jon_codes_)
+- Twitter: [\_jon_codes\_](https://twitter.com/jonwebbdev)
 - Email: [jon@jonwebb.dev](mailto:jon@jonwebb.dev)
