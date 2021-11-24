@@ -4,7 +4,6 @@ I'm a software engineer specializing in modern web applications, with industry e
 
 - 🔭 I’m currently working as a **full-stack dev** in **Atlanta, GA**
 - ⚙️ I'm currently enjoying working with: `Ruby`, `Rails`, `Javascript/Typescript`, `Node.js`, `React.js`, `PostgreSQL`
-- 🌱 I’m currently learning: `Java`
 
 ### 📫 Get in touch
 
