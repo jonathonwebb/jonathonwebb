@@ -1,7 +1,6 @@
 ### Hello, I'm Jon Webb 👋
 
 - 🔭 I’m currently working as a **full-stack software engineer** in **Atlanta, GA**
-- ⚙️ I'm currently enjoying working with: `Ruby`, `Javascript/Typescript`, and `Go`
 
 ### 📫 Get in touch
 
